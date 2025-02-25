@@ -14,7 +14,7 @@
 1. リポジトリをクローンまたはダウンロード：
 ```bash
 git clone [repository-url]
-cd kamui
+cd kamui_sd_collaboration
 ```
 
 2. Python仮想環境の作成（推奨）：
