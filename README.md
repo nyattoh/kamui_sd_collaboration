@@ -1,5 +1,7 @@
 # KAMUI Stable Diffusion Collaboration Image Generator
 
+![KAMUI Stable Diffusion Collaboration Image Generator Screenshot](./screenshot.jpeg)
+
 画像の背景とキャラクターを分離し、それぞれのスタイルを保持しながらLoRAモデルを学習・生成するAIイメージジェネレーター。
 フィードバックループを使用して、生成画像の品質を段階的に向上させます。
 
